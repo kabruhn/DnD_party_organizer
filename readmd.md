@@ -1,0 +1,1 @@
+D&D Party Organizer used for CSCI N300 Final Project. This app holds character data for a Dungeons and Dragons party. 

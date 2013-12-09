@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "edu.iupui.cs.pegasus.PartyOrg"
+        version   = "1.0.0">
+
+    <name>DnD Party Organizer</name>
+
+    <description>
+        This file hold character data for a Dungeons and Dragons Party
+    </description>
+
+    <author  email="kabruhn@iupui.edu">
+        Kyle Bruhn
+    </author>
+
+    <icon src="icon.png" />
+</widget>
